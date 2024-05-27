@@ -1,7 +1,7 @@
 [![MasterHead](https://images.prismic.io/impactio-blog/2575689d-8dfe-4d7c-b6a7-f33b170231b8_What+Does+a+Dart+and+Flutter+Developer+Do.png?auto=compress,format)]
 <h1 align="center">Hi 👋, I'm Sultan Md. Alnur</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Animated Coding gif" width="400" align="right">
+<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Animated Coding gif" width="300" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alnur17&label=Profile%20views&color=0e75b6&style=flat" alt="alnur17" /> </p>
 
